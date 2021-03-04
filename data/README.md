@@ -1,0 +1,2 @@
+# Data
+Here is the result data for each of the 3 algorithms. The Difference algorithm file contains 6 million bits and both the Von Neumann and Random-Stream algorithm files contain 20 million random bits. The bits are formatted into their corresponding ASCII bytes representing 0 and 1. To use with most programs for statistical analysis, 8 ASCII characters representing 0 and 1 must be converted into a single byte.
